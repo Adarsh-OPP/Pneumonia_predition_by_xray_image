@@ -3,12 +3,10 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![GPU](https://img.shields.io/badge/Accelerator-GPU%20(P100%2FT4)-green?logo=nvidia)
+![GPU](https://img.shields.io/badge/Accelerator-GPU%20(P100)-green?logo=nvidia)
 ![Model](https://img.shields.io/badge/Model-.keras-purple?logo=keras)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Last Commit](https://img.shields.io/github/last-commit/Adarsh-OPP/Pneumonia_predition_by_xray_image)
-![Stars](https://img.shields.io/github/stars/Adarsh-OPP/Pneumonia_predition_by_xray_image?style=social)
-![Forks](https://img.shields.io/github/forks/Adarsh-OPP/Pneumonia_predition_by_xray_image?style=social)
 
 ---
 
